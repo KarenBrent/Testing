@@ -11,3 +11,7 @@ And this is a change made in GitHub desktop
 `We are such stuff as dreams are made on, and our little life is rounded with a sleep.`
 
 ===============
+
+Discarded successfully in GitHUb desktop - now trying after a commit
+
+`We know what we are, but know not what we may be.`
