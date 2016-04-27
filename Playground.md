@@ -15,3 +15,9 @@ And this is a change made in GitHub desktop
 Discarded successfully in GitHUb desktop - now trying after a commit
 
 `We know what we are, but know not what we may be.`
+
+===============
+
+And here's a quote contributed (by an insomniac) via a pull request in the browser
+
+`To die, to sleep – To sleep–perchance to dream: ay, there’s the rub, for in that sleep of death what dreams may come when we have shuffled off this mortal coil, must give us pause.`
